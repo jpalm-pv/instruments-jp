@@ -1,2 +1,2 @@
 # instruments
-Control of TPV instruments
+Code for conrolling an xy stage.
