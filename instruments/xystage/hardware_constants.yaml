@@ -1,0 +1,24 @@
+coordinates: # all in millimeters
+  x_min: 0
+  x_max: 300
+  y_min: 0
+  y_max: 285
+
+pid:
+  arduino: 0x0043
+  prima: 
+  timeharp: 
+  arducam: 
+
+vid:
+  arduino: 0x2341
+  prima: 
+  timeharp: 
+  arducam: 
+
+stepper:
+  pwm: 70 # microseconds per pulse
+  ppr: 1600 # pulses per revolution
+  mm_per_rev: 8 # millimeters per revolution of the lead screw
+  polling_delay: 0.020 # time (milliseconds) to allow for serial communications
+  baudrate: 115200

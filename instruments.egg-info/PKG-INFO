@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: instruments
+Version: 0.1.dev0
+Summary: Control of Tandem PV Instruments
+Download-URL: https://github.com/sean-dunfield-tpv/instruments
+Author: Sean P. Dunfield, Andrew K. Hoeppner, Berkelley Gonzalez
+Author-email: sdunfield@tandempv.com, ahoeppner@tandempv.com, bgonzalez@tandempv.com
+License: MIT
+Keywords: materials,science,machine,automation,photovoltaic
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pyvisa
+Requires-Dist: pyserial
+Requires-Dist: matplotlib
+Requires-Dist: pyyaml
+Requires-Dist: pyqt5
+Requires-Dist: datetime
+
+# instruments
+Control of TPV instruments

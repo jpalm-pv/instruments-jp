@@ -1,0 +1,7 @@
+README.md
+setup.py
+instruments.egg-info/PKG-INFO
+instruments.egg-info/SOURCES.txt
+instruments.egg-info/dependency_links.txt
+instruments.egg-info/requires.txt
+instruments.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pandas
+numpy
+pyvisa
+pyserial
+matplotlib
+pyyaml
+pyqt5
+datetime

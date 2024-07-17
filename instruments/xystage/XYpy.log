@@ -1,0 +1,184 @@
+2024-07-17 08:44:00,939 - INFO - class loaded
+2024-07-17 08:55:41,919 - INFO - class loaded
+2024-07-17 08:55:54,572 - INFO - class loaded
+2024-07-17 09:19:10,235 - INFO - class loaded
+2024-07-17 09:27:16,255 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:27:29,557 - INFO - class loaded
+2024-07-17 09:30:33,431 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:34:03,175 - INFO - class loaded
+2024-07-17 09:35:00,692 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:35:36,475 - INFO - class loaded
+2024-07-17 09:36:00,971 - INFO - class loaded
+2024-07-17 09:37:18,813 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:37:23,079 - INFO - class loaded
+2024-07-17 09:38:01,356 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:38:04,531 - INFO - class loaded
+2024-07-17 09:40:21,573 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:40:25,267 - INFO - class loaded
+2024-07-17 09:43:07,450 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:43:11,026 - INFO - class loaded
+2024-07-17 09:43:53,429 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:43:56,493 - INFO - class loaded
+2024-07-17 09:45:28,706 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:45:31,723 - INFO - class loaded
+2024-07-17 09:46:13,873 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:46:17,274 - INFO - class loaded
+2024-07-17 09:49:33,472 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:50:25,463 - INFO - class loaded
+2024-07-17 09:50:48,100 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:52:55,769 - INFO - class loaded
+2024-07-17 09:53:47,875 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:56:19,683 - INFO - class loaded
+2024-07-17 09:56:54,473 - INFO - class loaded
+2024-07-17 09:57:24,621 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 09:57:29,358 - INFO - class loaded
+2024-07-17 09:57:46,127 - INFO - class loaded
+2024-07-17 09:58:06,408 - INFO - class loaded
+2024-07-17 09:58:47,577 - INFO - class loaded
+2024-07-17 09:58:47,587 - ERROR - Aruino not found at any serial port.
+2024-07-17 09:59:30,652 - INFO - class loaded
+2024-07-17 10:00:25,253 - INFO - class loaded
+2024-07-17 10:00:25,264 - INFO - Arduino Connected
+2024-07-17 10:00:32,728 - INFO - Going HOME
+2024-07-17 10:02:44,213 - INFO - class loaded
+2024-07-17 10:02:44,229 - INFO - Arduino Connected
+2024-07-17 10:02:51,228 - INFO - class loaded
+2024-07-17 10:02:51,239 - INFO - Arduino Connected
+2024-07-17 10:03:06,419 - INFO - Going HOME
+2024-07-17 10:03:16,031 - INFO - (X,Y)=72.13,36.805
+2024-07-17 10:03:18,270 - INFO - (X,Y)=93.5,36.805
+2024-07-17 10:03:20,085 - INFO - (X,Y)=108.64,37.4
+2024-07-17 10:03:46,394 - INFO - (X,Y)=72.13499999999999,36.809999999999995
+2024-07-17 10:03:48,485 - INFO - (X,Y)=93.5,36.809999999999995
+2024-07-17 10:03:50,299 - INFO - (X,Y)=108.64,37.4
+2024-07-17 10:03:54,981 - INFO - Going HOME
+2024-07-17 10:52:22,005 - INFO - class loaded
+2024-07-17 10:52:22,021 - INFO - Arduino Connected
+2024-07-17 10:52:57,497 - ERROR - Please home stage before taking a scan.
+2024-07-17 10:53:04,736 - INFO - class loaded
+2024-07-17 10:53:04,736 - INFO - Arduino Connected
+2024-07-17 10:53:10,603 - INFO - Going HOME
+2024-07-17 10:53:36,935 - INFO - (X,Y)=73.605,96.25
+2024-07-17 10:53:39,308 - INFO - (X,Y)=123.43,109.84
+2024-07-17 10:53:50,164 - INFO - Port closed successfully
+2024-07-17 10:54:03,131 - INFO - class loaded
+2024-07-17 10:54:03,142 - INFO - Arduino Connected
+2024-07-17 10:54:04,275 - INFO - Going HOME
+2024-07-17 10:54:24,819 - INFO - class loaded
+2024-07-17 10:54:24,829 - INFO - Arduino Connected
+2024-07-17 10:54:26,401 - INFO - Going HOME
+2024-07-17 10:54:51,877 - INFO - Port closed successfully
+2024-07-17 10:58:13,114 - INFO - class loaded
+2024-07-17 10:58:13,130 - INFO - Arduino Connected
+2024-07-17 10:58:19,440 - INFO - Going HOME
+2024-07-17 10:58:46,681 - INFO - (X,Y)=50.46,47.195
+2024-07-17 10:58:48,890 - INFO - (X,Y)=70.35,45.42
+2024-07-17 10:58:50,717 - INFO - (X,Y)=87.565,44.825
+2024-07-17 10:58:52,396 - INFO - (X,Y)=108.94,44.825
+2024-07-17 10:58:54,210 - INFO - (X,Y)=53.135,67.38
+2024-07-17 10:58:58,196 - INFO - (X,Y)=69.46,65.89999999999999
+2024-07-17 10:58:59,875 - INFO - (X,Y)=84.595,63.82499999999999
+2024-07-17 10:59:01,534 - INFO - (X,Y)=107.155,63.52499999999999
+2024-07-17 10:59:26,112 - INFO - Port closed successfully
+2024-07-17 11:00:19,216 - INFO - class loaded
+2024-07-17 11:00:19,232 - INFO - Arduino Connected
+2024-07-17 11:00:36,580 - INFO - Going HOME
+2024-07-17 11:01:09,130 - INFO - (X,Y)=86.815,44.54
+2024-07-17 11:01:11,396 - INFO - (X,Y)=94.74,45.295
+2024-07-17 11:01:12,662 - INFO - (X,Y)=107.94999999999999,45.295
+2024-07-17 11:01:14,059 - INFO - (X,Y)=119.27499999999999,44.92
+2024-07-17 11:01:15,414 - INFO - (X,Y)=131.73,45.295
+2024-07-17 11:01:16,799 - INFO - (X,Y)=87.94999999999999,60.015
+2024-07-17 11:01:19,555 - INFO - (X,Y)=95.11999999999999,60.015
+2024-07-17 11:01:20,776 - INFO - (X,Y)=107.57499999999999,59.265
+2024-07-17 11:01:22,172 - INFO - (X,Y)=118.89999999999999,59.635
+2024-07-17 11:01:23,524 - INFO - (X,Y)=132.86499999999998,57.375
+2024-07-17 11:01:34,401 - INFO - Port closed successfully
+2024-07-17 11:06:27,131 - INFO - class loaded
+2024-07-17 11:06:27,131 - INFO - Arduino Connected
+2024-07-17 11:06:29,385 - INFO - Going HOME
+2024-07-17 11:06:48,435 - INFO - Port closed successfully
+2024-07-17 11:08:30,612 - INFO - class loaded
+2024-07-17 11:08:33,360 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
+2024-07-17 12:52:22,924 - INFO - class loaded
+2024-07-17 12:57:26,973 - ERROR - Failed to close port
+Traceback (most recent call last):
+  File "c:\users\jack palmer\documents\github\instruments\instruments\xystage\stepper_util.py", line 62, in disconnect
+    self.arduino.close()
+    ^^^^^^^^^^^^
+AttributeError: 'Stepper' object has no attribute 'arduino'
